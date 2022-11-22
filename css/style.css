@@ -1,9 +1,18 @@
 body {
     background-color: darkolivegreen;
     color: orange;
+    font-family: "Times New Roman", sans-serif;
 }
 
 img {
     height: 400px;
     width: auto;
+}
+
+.title {
+    font-weight: bolder;
+}
+
+.list {
+    font-style: italic;
 }
